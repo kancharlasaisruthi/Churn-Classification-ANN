@@ -15,6 +15,8 @@ The user provides input like age, geography, credit score, balance, and the app 
 
 ## 🖼 Preview
 
+<img width="660" height="558" alt="image" src="https://github.com/user-attachments/assets/1130e9db-9632-4e78-acdb-317708552306" />
+
 <img src="https://github.com/user-attachments/assets/ed7f7394-7898-4635-81da-e94e967e67c1" alt="App Screenshot" width="100%" />
 
 ---
@@ -36,6 +38,3 @@ The user provides input like age, geography, credit score, balance, and the app 
    git clone https://github.com/kancharlasaisruthi/churn-classification-ann.git
    cd churn-classification-ann
    
-<img width="660" height="558" alt="image" src="https://github.com/user-attachments/assets/1130e9db-9632-4e78-acdb-317708552306" />
-
-<img width="645" height="261" alt="image" src="https://github.com/user-attachments/assets/ed7f7394-7898-4635-81da-e94e967e67c1" />
